@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "title": "sumsung s20",
+      "price": 300,
+      "taxe": 50,
+      "ads": 50,
+      "discount": 50,
+      "total": 350,
+      "category": "phone",
+      "id": 3
+    },
+    {
+      "title": "sumsung s23",
+      "price": 5000,
+      "taxe": 90,
+      "ads": 80,
+      "discount": 50,
+      "total": 5120,
+      "category": "phone",
+      "id": 4
+    },
+    {
+      "title": "siera",
+      "price": 4000,
+      "taxe": 100,
+      "ads": 40,
+      "discount": 50,
+      "total": 4090,
+      "category": "Electromenager",
+      "id": 5
+    },
+    {
+      "title": "Redmi note 11",
+      "price": 2000,
+      "taxe": 300,
+      "ads": 40,
+      "discount": 0,
+      "total": 3340,
+      "category": "phone",
+      "id": 6
+    },
+    {
+      "title": "Jeans Diesel",
+      "price": 500,
+      "taxe": 20,
+      "ads": 40,
+      "discount": 3,
+      "total": 557,
+      "category": "vetements",
+      "id": 7
+    }
+  ]
+}
